@@ -1,36 +1,18 @@
 <h1 align="center">
-  Hey, I'm kmmiio99o 👋
+  Hey, I'm Drago 👋
 </h1>
 
 <p align="center">
-  <b>16 y/o Full-Stack Developer from Poland 🇵🇱</b><br>
+  <b>16 y/o Full-Stack Developer from Bangladesh 🇧🇩</b><br>
   <i>"Crafting digital experiences with modern technologies."</i>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=TypeScript+Developer;React+Specialist;Kotlin+Explorer;JavaScript+Craftsman;Full-Stack+Builder;Modern+Web+Artisan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?
+      font=Learning+Web+Developer" alt="Typing SVG" />
   </a>
 </p>
-
----
-
-### 🧰 Current Tech Stack
-
-**💻 Core Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**⚛️ Frontend & Frameworks**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**🛠️ Tools & Platforms**
-![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
